@@ -1,0 +1,11 @@
+/* Font style  */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Open+Sans&family=Poppins:wght@400;500&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+header{
+    background-color: #FFF9F4;
+    height: 100vh;
+}
